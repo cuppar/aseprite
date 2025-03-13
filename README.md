@@ -90,6 +90,7 @@ requests, donations, and help us to develop Aseprite.
 
 ## License
 
+
 This program is distributed under three different licenses:
 
 1. Source code and official releases/binaries are distributed under
